@@ -1,0 +1,250 @@
+zoomMicroscopio=100
+formatoImagem="512X512"
+velocidade=400
+corImagem="azul"
+pixel=480
+potencia=100
+zoomFactore=100
+varredura=1
+tipoCelula="neurônio"
+rotacao=0
+
+print("Esse porgrama visa confugurar um microscópio para fornecer imagens de cortes ópticos")
+
+zoomMicroscopio = int (input("Qual o zoom do microscópio? Colocar entre 0 e 100%"))
+print("Houve alteração na variável inserida?")
+print(zoomMicroscopio != 100)
+
+formatoImagem = input("Digite o tamanho da imagem")
+print("Houve alteração na variável inserida?")
+print(formatoImagem !="512X512")
+
+velocidade =  int (input("Qual velocidade de leitura das linhas que você deseja? vai de 10 a 1400HZ"))
+print("Houve alteração na variável inserida?")
+print(velocidade !=400)
+
+corImagem = input("Qual a cor que você deseja usar?")
+print("Houve alteração na variável inserida?")
+print(corImagem !="azul")
+
+pixel = int (input("Defina os pixels da imagem entre 0 e 500"))
+print("Houve alteração na variável inserida?")
+print(pixel !=480)
+
+potencia = int (input("Qual potência deseja definir? Vai de 0 a 100"))
+print("Houve alteração na variável inserida?")
+print(potencia !=100)
+
+zoomFactore = int (input("Qual ZoomFactore deseja definir? Vai de 0 a 10"))
+print("Houve alteração na variável inserida?")
+print(zoomFactore !=100)
+
+varredura = int (input("Quantas vezes deseja realizar a varredura? Vai de 0 a 10"))
+print("Houve alteração na variável inserida?")
+print(varredura !=1)
+
+tipoCelula = input("Qual o tipo de célula investigada?")
+print("Houve alteração na variável inserida?")
+print(tipoCelula !="neurônio")
+
+rotacao = int (input("Qual a angulação desejada? Vai de 0 a 360º"))
+print("Houve alteração na variável inserida?")
+print(rotacao !=0)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Zomm do microscópio = ", zoomMicroscopio)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Formato da imagem = ", formatoImagem)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Velocidade da varredura = ", velocidade)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Cor da imagem = ", corImagem)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Pixel da imagem = ", pixel)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Potência = ", potencia)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Zoom Factore = ", zoomFactore)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Varredura = ", varredura)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Tipo de Célula = ", tipoCelula)
+
+print("As informações de configurações setadas pelo usuário são:")
+print("Rotação da Imagem = ", rotacao)
+
+print("A partir de agora a máquina será calibrada no sentido horizontal. Use a primeira e ultima letra do seu primeiro nome.")
+
+primeiraLetra = "c"
+ultimaLetra = "o"
+letra1 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra1)
+
+letra2 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra2)
+
+letra3 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra3)
+
+letra4 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra4)
+
+letra5 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra5)
+
+letra6 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra6)
+
+letra7 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra7)
+
+letra8 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra8)
+
+letra9 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra9)
+
+letra10 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra10)
+
+letra11 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra11)
+
+letra12 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra12)
+
+letra13 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra13)
+
+letra14 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra14)
+
+letra15 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra15)
+
+letra16 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra16)
+
+letra17 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra17)
+
+letra18 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra18)
+
+letra19 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra19)
+
+letra20 = input("Escolha entre a primeira e a ultima letra")
+print("Informação correta", letra20)
+
+print("A partir de agora a máquina será calibrada no sentido vertical. Use a segunda e penultima letra do seu primeiro nome.")
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra21 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra21)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra22 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra22)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra23 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra23)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra24 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra24)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra25 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra25)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra26 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra26)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra27 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra27)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra28 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra28)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra29 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra29)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra30 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra30)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra31 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra31)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra32 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra32)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra33 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra33)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra34 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra34)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra35 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra35)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra36 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra36)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra37 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra37)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra38 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra38)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra39 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra39)
+
+segundaLetra = "o"
+penultimaLetra = "a"
+letra40 = input("Escolha entre a segunda e a penultima letra")
+print("Informação correta", letra40)
+
+print("Sistema calibrado com sucesso")
