@@ -1,0 +1,124 @@
+habituacao = input("o animal está habituado?")
+aproximacao = 30 #cm
+distancia = float (input("digite o valor da aproximação"))
+
+
+if distancia < aproximacao:
+  print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+distancia1 = float (input("digite o valor da aproximação"))
+if distancia1 < aproximacao:
+ print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+distancia2 = float (input("digite o valor da aproximação"))
+if distancia2 < aproximacao:
+ print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+distancia3 = float (input("digite o valor da aproximação"))
+if distancia3 < aproximacao:
+ print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+distancia4 = float (input("digite o valor da aproximação"))
+if distancia4 < aproximacao:
+  print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+distancia5 = float (input("digite o valor da aproximação"))
+if distancia5 < aproximacao:
+  print("liberar 0,5ml de rec")
+else:
+  print("não liberar recompensa")
+
+print("o macaco tocou na barra")
+
+contador = 0
+tocarBarra1 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra1 == "sim" :
+  contador +=1
+
+tocarBarra2 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra2 == "sim" :
+  contador +=1
+
+tocarBarra3 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra1 == "sim" :
+  contador +=1
+
+tocarBarra4 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra4 == "sim" :
+  contador +=1
+
+tocarBarra5 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra5 == sim :
+  contador +=1
+
+tocarBarra6 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra6 == "sim" :
+  contador +=1
+
+tocarBarra7 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra7 == "sim" :
+  contador +=1
+
+tocarBarra8 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra8 == "sim" :
+  contador +=1
+
+tocarBarra9 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra9 == "sim" :
+  contador +=1
+
+tocarBarra10 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra1 == "sim" :
+  contador +=1
+
+tocarBarra11 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra1 == "sim" :
+  contador +=1
+
+tocarBarra12 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra1 == "sim" :
+  contador +=1
+
+tocarBarra13 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra13 == "sim" :
+  contador +=1
+
+tocarBarra14 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra14 == "sim" :
+  contador +=1
+
+tocarBarra15 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra15 == "sim" :
+  contador +=1
+
+tocarBarra16 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra16 == "sim" :
+  contador +=1
+
+tocarBarra17 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra17 == "sim" :
+  contador +=1
+
+tocarBarra18 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra18 == "sim" :
+  contador +=1
+
+tocarBarra19 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra19 == "sim" :
+  contador +=1
+
+tocarBarra20 = (input("O animal tocou na barra? sim ou não?"))
+if tocarBarra20 == "sim" :
+  contador +=121
+
+print("o experimento passará para a próxima etapa")
